@@ -6,7 +6,6 @@ This application is an EMI (Equated Monthly Installment) calculator system devel
 ## Technologies Used
 - Java 17
 - Spring Boot
-- Spring MVC
 - Spring Validation
 - Spring Web
 - Lombok
