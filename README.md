@@ -58,7 +58,6 @@ The API includes an endpoint for calculating EMI, with input validation and erro
 - **Spring MVC**: Used to create RESTful APIs for EMI calculations.
 - **Spring Validation**: Applied to ensure input values meet business rules.
 - **Lombok**: Used to reduce boilerplate code, improving readability and maintainability.
-- **JUnit**: Used to ensure code quality through unit tests.
 
 ## Project Structure
 
